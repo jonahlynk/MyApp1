@@ -54,4 +54,9 @@ public class MainActivity extends AppCompatActivity {
     {
         System.out.println("Test GitHub!");
     }
+
+    private void checkfunc2()
+    {
+        System.out.println("Testing branch commit in GitHub!");
+    }
 }
