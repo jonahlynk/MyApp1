@@ -59,4 +59,9 @@ public class MainActivity extends AppCompatActivity {
     {
         System.out.println("Testing branch commit in GitHub!");
     }
+
+    private void checkfunc3()
+    {
+        System.out.print("Testing merge functionality in GitHub");
+    }
 }
