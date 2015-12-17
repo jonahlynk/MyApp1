@@ -49,4 +49,9 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    private void checkfunc()
+    {
+        System.out.println("Test GitHub!");
+    }
 }
